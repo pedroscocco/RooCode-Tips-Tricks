@@ -19,7 +19,7 @@ wget https://raw.githubusercontent.com/Michaelzag/RooCode-Tips-Tricks/main/roo-i
 then:
 
 ```bash
-node generate-rooignore.js node generate-rooignore.js --threshold=30000
+node generate-rooignore.js --threshold=30000
 ```
 
 if it doensm't work you might need to chmod +x
